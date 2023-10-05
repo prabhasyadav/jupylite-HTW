@@ -1,21 +1,16 @@
 # JupyterLite for HM class
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+This is online JUPYTER notebook for the class. Click on the figur below to get the Notebook. 
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://prabhasyadav.github.io/jupylite-htw/)
 
-## ✨ Try it in your browser ✨
+Please make sure that you download your IPYNB file before you leave the site. 
 
-➡️ **https://jupyterlite.github.io/demo**
+## Note
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
+- Your files will not be private - i.e., contents of your file can be visible to others
+- There is no guarantee for any loss of data/information. I am not responsible for any loss.
+- JUPYLITE is rather unstable - so use at your own risk.
 
 
 
