@@ -2,7 +2,7 @@
 
 This is online JUPYTER notebook for the class. Click on the figur below to get the Notebook. 
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://prabhasyadav.github.io/jupylite-htw/)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://prabhasyadav.github.io/jupylite-htw/) or visit the site: [https://prabhasyadav.github.io/jupylite-htw/](https://prabhasyadav.github.io/jupylite-htw/)
 
 Please make sure that you download your IPYNB file before you leave the site. 
 
